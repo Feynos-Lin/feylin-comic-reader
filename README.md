@@ -1,6 +1,6 @@
 Feynos ComicReader
 
-An Android reader for comics, manga and ebooks, with a Google Play Books–style page curl. Optimized for the Galaxy Z Fold 7's near-square inner screen, and works on any Android 8.0+ phone or tablet.
+An Android reader for comics, manga and ebooks, with a Google Play Books–style page curl. Wworks on any Android 8.0+ phone or tablet.
 
 ## Features
 
